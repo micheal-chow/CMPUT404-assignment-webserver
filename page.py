@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from datetime import datetime, timezone
 
+# Copyright 2023 Micheal Chow
+
 class Page:
     def get_date(self):
         return datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")

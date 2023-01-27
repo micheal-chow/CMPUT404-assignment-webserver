@@ -3,6 +3,7 @@ import socketserver
 from os import path
 from page import Page
 
+# Copyright 2023 Micheal Chow
 # Copyright 2013 Abram Hindle, Eddie Antonio Santos
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
